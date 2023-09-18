@@ -1,6 +1,9 @@
 # ValorantVirtoggle
 `ValorantVirtoggle` is a simple Windows batch script designed to help users quickly enable or disable hardware virtualization.
 
+![image](https://github.com/dante-militello/ValorantVirtoggle/assets/36249892/555848a4-c112-4f91-a115-648b07f6b86d)
+
+
 ## Why `ValorantVirtoggle`?
 
 For those who enjoy playing Valorant, you might have encountered an issue with its anti-cheat system, Vanguard. Vanguard requires players to disable hardware virtualization on their computers. This can be a hassle, especially for users who frequently switch between gaming and tasks that require virtualization, such as running virtual machines for work or development purposes.
